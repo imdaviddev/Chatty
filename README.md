@@ -1,5 +1,6 @@
+# Chatty 
 
-# Instrucciones para trabajar con submódulos en Git
+## Instrucciones para trabajar con submódulos en Git
 
 ## 1. Clonar el repositorio principal
 El primer paso es clonar el repositorio principal como de costumbre:
