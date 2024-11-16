@@ -1,3 +1,6 @@
 [submodule "chatty-backend"]
 	path = chatty-backend
 	url = https://github.com/imdaviddev/chatty-backend
+[submodule "chatty-frontend"]
+	path = chatty-frontend
+	url = https://github.com/imdaviddev/chatty-frontend.git
